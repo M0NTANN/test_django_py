@@ -1,6 +1,6 @@
 # example/views.py
 from datetime import datetime
-#import telebot
+import telebot
 import os
 
 from django.http import HttpResponse
